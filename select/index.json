@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "二人で行こう",
+  "base_artist": "HY",
+  "createdAt": "2026-03-03T14:48:43.103038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "二人で行こう",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/01_二人で行こう_HY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二人で行こう",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/pl_01_二人で行こう_HY.txt"
+    }
+  ]
+}
